@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Alex!
 
 <a href="https://twitter.com/arosolko">
-  <img width="54px" height="54px" src="./img/twitter.svg"/>
+  <img width="54px" height="54px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rosolko">
