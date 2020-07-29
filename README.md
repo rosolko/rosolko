@@ -1,5 +1,3 @@
-### 👋 Hello, I'm Alex!
-
 <a href="https://twitter.com/arosolko">
   <img width="50px" height="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"/>
 </a>
