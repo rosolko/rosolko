@@ -2,6 +2,10 @@
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>
 </a>
 
+<a href="https://t.me/rosolko">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"/>
+</a>
+
 <a href="mailto:rosolko@gmail.com">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"/>
 </a>
